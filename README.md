@@ -10,21 +10,21 @@
 ## 🚀 Tecnologias e Habilidades
 
 - **Linguagens e Frameworks**  
-  - HTML / CSS (Intermediário)  
-  - JavaScript / TypeScript (Intermediário)  
-  - Angular (Intermediário)  
-  - C# .NET (Intermediário)  
-  - Node.js (Intermediário)  
-  - Java (Intermediário)  
-  - Python (Básico)  
-  - PHP (Básico)  
-  - SQL (Intermediário)  
+  - HTML / CSS  
+  - JavaScript / TypeScript  
+  - Angular  
+  - C# .NET  
+  - Node.js  
+  - Java  
+  - Python  
+  - PHP  
+  - SQL  
 
 - **Outras competências**  
   - Comunicação com clientes e trabalho em equipe  
   - Desenvolvimento de sistemas CRUD  
   - Integração com banco de dados  
-  - Padrões de projeto (ex.: Memento)  
+  - Padrões de projeto  
   - Metodologias ágeis  
 
 ---
@@ -54,8 +54,8 @@
 
 ## 📫 Contato
 
-- 📧 Email: matheus.martins@example.com *(substitua pelo seu real)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/...) *(adicione seu perfil aqui)*  
+- 📧 Email: matheusmc6@gmail.com   
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-martins)  
 - 🐙 Aqui no GitHub: [martins158](https://github.com/martins158)
 
 ---
